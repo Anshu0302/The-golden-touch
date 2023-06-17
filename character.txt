@@ -2,3 +2,4 @@ char **
 
 King Midas
 daughter dismay
+gods
